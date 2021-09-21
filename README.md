@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://kapwi.ng/c/d91LUCXHqN' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='final_6149302e986f1f00548022ed_116116.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
